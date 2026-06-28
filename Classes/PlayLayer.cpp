@@ -176,5 +176,5 @@ bool PlayLayer::ccTouchBegan(cocos2d::CCTouch* touch, cocos2d::CCEvent* event) {
 }
 
 void PlayLayer::selectCell(int x, int y) { // TODO: rename to swithCellState(int x, int y);
-	
+	// TODO: implement this
 }
